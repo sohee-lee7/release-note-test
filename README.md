@@ -10,3 +10,4 @@
 8. test
 9. test
 10. release
+11. 2.0.0

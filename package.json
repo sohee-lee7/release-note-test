@@ -4,7 +4,8 @@
   "description": "version 0.0.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "note": "tui-note"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sohee-lee7/release-note-test/issues"
   },
-  "homepage": "https://github.com/sohee-lee7/release-note-test#readme"
+  "homepage": "https://github.com/sohee-lee7/release-note-test#readme",
+  "devDependencies": {
+    "@toast-ui/release-notes": "^2.0.1"
+  }
 }

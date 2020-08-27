@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   groupBy: {
     Features: ['feat'],
     'Bug Fixes': ['fix'],

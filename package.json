@@ -1,11 +1,12 @@
 {
   "name": "release-note-test",
-  "version": "1.0.0",
+  "version": "1.0.0-canary.0",
   "description": "version 0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "note": "tui-note"
+    "note": "tui-note",
+    "release": "release"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/sohee-lee7/release-note-test#readme",
   "devDependencies": {
-    "@toast-ui/release-notes": "^2.0.1"
+    "@toast-ui/release-notes": "^2.0.1",
+    "release": "^6.3.0"
   }
 }
